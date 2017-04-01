@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sat Apr 01 12:38:06 IST 2017
+2.base=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_/res/raw/rgb128smooth.dat
+5.set=ANDROID_RESOURCE
+3.base=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+7.file=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+5.base=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_
+4.set=DEX
+6.base=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_/res/raw/process.bc
+3.set=ANDROID_RESOURCE
+1.base=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+0.set=ANDROID_RESOURCE

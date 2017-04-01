@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/merged/debug/raw/rgb128smooth.dat",
+        "source": "/home/vinay/AndroidStudioProjects/CameraRenderScript/app/src/main/res/raw/rgb128smooth.dat"
+    },
+    {
+        "merged": "/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/intermediates/res/merged/debug/raw/process.bc",
+        "source": "/home/vinay/AndroidStudioProjects/CameraRenderScript/app/build/generated/res/rs/debug/raw/process.bc"
+    }
+]
